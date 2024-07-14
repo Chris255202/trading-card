@@ -2,11 +2,11 @@
 
 This is the Animal Trading Card project.
 
-Languages Used: /n
+Languages Used:\
 -HTML -CSS
 
-What did you learn?/n
+What did you learn?\
 In this project, I learned how to implement basic HTML and CSS in order to make a trading card.
 
 How to use the project:
-First, open your browser /nSecond, click 'ctrl+O' /nThird, navigate to the index.html/n Forth, click on it
+First, open your browser\Second, click 'ctrl+O'\Third, navigate to the index.html\Forth, click on it
